@@ -1,5 +1,4 @@
 # PDFComparator - сравнение PDF файлов
-Copyright &copy; Ivan Pozhidaev, 2025
 
 # Как использовать программу:
 1) Запустите программу
